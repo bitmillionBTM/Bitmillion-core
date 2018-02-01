@@ -54,4 +54,4 @@ sudo apt-get install libdb-dev libdb++-dev libboost-all-dev libminiupnpc-dev lib
 
 Developer Leonardo O Rocha  
 rocha@dr.com  
-leonardo.bitmillion.org
+leonardo.rocha@bitmillion.org
