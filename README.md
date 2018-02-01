@@ -1,7 +1,7 @@
 
 Bitmillion development tree
 
-Bitmillion is a PoS-based cryptocurrency.
+
 ![Bitmillion](http://www.bitmillion.org/images/logo.png)
 
 # Bitmillion Core [BTM]
@@ -16,11 +16,12 @@ for more information or see http://opensource.org/licenses/MIT.
 ### How to get BTM ?
 Bitmillion - a 'faster' version of Litecoin which also uses scrypt
 as a proof of work scheme and is intended for microtransactions.
- - 64 seconds block targets:  ;)
- - 100 000 000 total coins
- - 75 coins per generated block at block 10k
- - difficulty increases every 3 days
- - masternod reward system
+- 64 seconds block targets:  ;)
+- 100 000 000 total coins
+- 75 coins per generated block at block 10k
+- difficulty increases every 3 days
+- masternod reward system
+-Bitmillion is a PoS-based cryptocurrency.
 
 So, in fact, this "new" currency exists for the following reasons.
 - BTM proves that a Crypto community is open to all and our initiative to create an online currency in Litecoin / Bitcoin shows that it believes in blockchain technology and code security.
