@@ -1,0 +1,9 @@
+Building Bitmillion
+
+See doc/readme-qt.rst for instructions on building Bitmillion QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bitmillion.
+
+See doc/build-*.txt for instructions on building bitmilliond,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bitmillion.
