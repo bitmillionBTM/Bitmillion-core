@@ -22,11 +22,13 @@ as a proof of work scheme and is intended for microtransactions.
  - difficulty increases every 3 days
  - masternod reward system
 
-
-So, in fact, this "new" currency exists for the following reasons:
-- BTM proves that the Crypto community is open to all and our initiative to create a currency based on Litecoin / Bitcoin shows that we believe in blockchain technology.
-(just see the changes I applied to the original Litecoin source,
-for the generation of blocks of genesis, see main.cpp)
+So, in fact, this "new" currency exists for the following reasons.
+- BTM proves that a Crypto community is open to all and our initiative to create an online currency in Litecoin / Bitcoin shows that it believes in blockchain technology and code security.
+- The BTM focused on simple people and local commerce in Brazil and open to everyone.
+- Its system of microtransnations comes to bring agility to the network of local payments as it happens with credit card.
+- Our idea is to make a crypto and anonymous system that is easy to use and secure at the same time so that every community benefits from this system.
+(see the modifications that I applied to the original Litecoin source,
+for a generation of genesis blocks, see main.cpp)
 
 
 getinfo 
