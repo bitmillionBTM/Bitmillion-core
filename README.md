@@ -39,6 +39,7 @@ port serviçe test net 31834
 Development process
 ===================
 the merit belongs to the whole team!!!
+
 This system was designed from many parts of free code systems based on litecoin> dogecoin> small change and others to find a quick and safe solution, the code was born with the intention of creating a decentralized platform for use in shopping applications that could favor society especially ordinary people, external to the bitcoin community.
 The whole team is dedicated to doing the best possible every day correcting bugs and supporting our friends so to speak. our entire community of cryptomoedas
 
@@ -50,4 +51,6 @@ sudo apt-get install libdb-dev libdb++-dev libboost-all-dev libminiupnpc-dev lib
 
 
 
-Developer Leonardo O Rocha rocha@dr.com
+Developer Leonardo O Rocha  
+rocha@dr.com  
+leonardo.bitmillion.org
