@@ -50,7 +50,7 @@ libraries
 sudo apt-get install build-essential libssl-dev libdb-dev libdb++-dev libboost-all-dev git libssl1.0.0-dbg
 sudo apt-get install libdb-dev libdb++-dev libboost-all-dev libminiupnpc-dev libminiupnpc-dev libevent-dev libcrypto++-dev libgmp3-dev
 
-
+for install https://github.com/bitmillionBTM/Bitmillion-core/blob/master/INSTALL
 
 
 Developer Leonardo O Rocha  
